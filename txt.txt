@@ -1,0 +1,20 @@
+https://www.phind.com/search?home=truechat g
+
+pt para codigos 
+
+kaggle.com -> datasets
+
+maior comunidade de machine learn
+
+mid journey -> servidor de Discord
+
+open ml -> base de dados
+flask -> spront 4 
+coletar dados.
+
+alura curso flask -> MLOps
+
+tarefas para casa:
+    usar o mid journey
+    usar o colab para rodar o codigo de hj (upar, rodar, exportar)
+    usar o SAM
