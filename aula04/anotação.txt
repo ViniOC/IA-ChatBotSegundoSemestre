@@ -1,0 +1,12 @@
+dispersão é o tamanho da curva, quanto maior a curva, mais valabilidade.
+
+tendencia central = media, moda, mediana
+
+se exsite relação entre 2 variaveis
+
+x -> y
+x <- y
+x <-> y
+x    y
+
+representação de dados e ciencia de dados -> checkpoint dia 13/09
